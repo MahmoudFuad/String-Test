@@ -8,4 +8,10 @@ public class stringTest {
         int length = input.length();
         Assert.assertEquals(length, 13);
     }
+
 }
+
+    @Test
+    public void testDivision(){
+        Assert.assertTrue(5==5);
+    }
